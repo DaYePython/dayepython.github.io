@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-03-05T12:50:46.307Z</updated>
+  <updated>2019-03-05T13:25:04.975Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,11 +17,11 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>2019-03-05-Template.md</title>
+    <title>[置顶]Bolg Post&#39;sTemplate</title>
     <link href="http://yoursite.com/passages/2019-03-05-Template-md/"/>
     <id>http://yoursite.com/passages/2019-03-05-Template-md/</id>
     <published>2019-03-05T12:44:47.000Z</published>
-    <updated>2019-03-05T12:50:46.307Z</updated>
+    <updated>2019-03-05T13:25:04.975Z</updated>
     
     <content type="html"><![CDATA[<p>This is abstract</p><a id="more"></a><p>This is post’s body<br>md 文件命名约定<code>YYYY-MM-DD-title.md</code>-</p>]]></content>
     
