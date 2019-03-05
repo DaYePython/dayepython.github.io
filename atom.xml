@@ -5,9 +5,9 @@
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="https://yesongsheng.xyz/"/>
   <updated>2019-03-05T13:25:04.975Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>https://yesongsheng.xyz/</id>
   
   <author>
     <name>DaYe</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>[置顶]Bolg Post&#39;sTemplate</title>
-    <link href="http://yoursite.com/passages/2019-03-05-Template-md/"/>
-    <id>http://yoursite.com/passages/2019-03-05-Template-md/</id>
+    <link href="https://yesongsheng.xyz/passages/2019-03-05-Template-md/"/>
+    <id>https://yesongsheng.xyz/passages/2019-03-05-Template-md/</id>
     <published>2019-03-05T12:44:47.000Z</published>
     <updated>2019-03-05T13:25:04.975Z</updated>
     
@@ -31,21 +31,21 @@
     
     </summary>
     
-      <category term="Temlate" scheme="http://yoursite.com/categories/Temlate/"/>
+      <category term="Temlate" scheme="https://yesongsheng.xyz/categories/Temlate/"/>
     
     
-      <category term="Template" scheme="http://yoursite.com/tags/Template/"/>
+      <category term="Template" scheme="https://yesongsheng.xyz/tags/Template/"/>
     
-      <category term="Blog" scheme="http://yoursite.com/tags/Blog/"/>
+      <category term="Blog" scheme="https://yesongsheng.xyz/tags/Blog/"/>
     
-      <category term="Hexo" scheme="http://yoursite.com/tags/Hexo/"/>
+      <category term="Hexo" scheme="https://yesongsheng.xyz/tags/Hexo/"/>
     
   </entry>
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/passages/hello-world/"/>
-    <id>http://yoursite.com/passages/hello-world/</id>
+    <link href="https://yesongsheng.xyz/passages/hello-world/"/>
+    <id>https://yesongsheng.xyz/passages/hello-world/</id>
     <published>2019-03-05T07:16:20.923Z</published>
     <updated>2019-03-05T07:16:20.923Z</updated>
     
